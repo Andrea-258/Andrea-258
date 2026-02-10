@@ -3,9 +3,9 @@
 **Andrea-258/Andrea-258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
--🔭 I’m currently working on applied research projects, focused on graph computational modeling using Python and NetworkX.
+- I’m currently working on applied research projects, focused on graph computational modeling using Python and NetworkX.
 
--🌱 I’m currently learning Python for data analysis, applied mathematics, and graph modeling , with a focus on optimization and real-world applications.
+- I’m currently learning Python for data analysis, applied mathematics, and graph modeling , with a focus on optimization and real-world applications.
 
 -👯 I’m looking to collaborate on data analysis, graph theory, and mathematical modeling projects, especially in scientific, engineering, or business-related contexts.
 
